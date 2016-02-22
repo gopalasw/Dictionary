@@ -1,0 +1,30 @@
+Output:
+
+File: Holmes.txt
+Most common word: "the" appeared 446 times.
+Took 237 microseconds to find the max.
+Least common word: "mention" appeared 1 times.
+Took 256 microseconds to find the min.
+Took 155 microseconds to insert a word.
+Took 236 microseconds to delete a word.
+Took 23 microseconds to get a word.
+
+
+File: OxfordMedical.txt
+Most common word: "the" appeared 555 times.
+Took 166 microseconds to find the max.
+Least common word: "prolong" appeared 1 times.
+Took 175 microseconds to find the min.
+Took 130 microseconds to insert a word.
+Took 16 microseconds to delete a word.
+Took 311 microseconds to get a word.
+
+
+File: words2.txt
+Most common word: "th" appeared 10 times.
+Took 615 microseconds to find the max.
+Least common word: "the" appeared 1 times.
+Took 593 microseconds to find the min.
+Took 474 microseconds to insert a word.
+Took 1129 microseconds to delete a word.
+Took 123 microseconds to get a word.
